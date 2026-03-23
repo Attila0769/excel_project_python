@@ -16,5 +16,6 @@ Create the venv environment :
 
 Now you can run the python files without any problem with jupyter notebook, vs code with jupyter extension or any software to run .ipynb files. 
 
-The plots created can all be found in the folder ![plots](plots/)
+The plots created can all be found in the folder ![plots](plots/).
+
 ![This](carte_ventes.html) shows a map of the US with the cities where the company sold the most in terms of revenue. 
