@@ -5,9 +5,9 @@ Download the project with one of the different options github offers.
 Create the venv environment : 
 - Open a powershell terminal in the project folder :
 - Run the command :
--   python -m venv .venv
+-   `python -m venv .venv`
 - Then
--   pip install -r requirements.txt
+-   `pip install -r requirements.txt`
 
 Now you can run the python files without any problem with jupyter notebook, vs code with jupyter extension or any software to run .ipynb files. 
 
