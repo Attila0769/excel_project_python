@@ -1,4 +1,4 @@
-name: C:\Users\thebr\Documents\GitHub\data_science_excel_project_python_part\.conda
+name: excel
 channels:
   - defaults
 dependencies:
@@ -110,4 +110,3 @@ dependencies:
       - threadpoolctl==3.6.0
       - urllib3==2.6.3
       - xyzservices==2025.11.0
-prefix: C:\Users\thebr\Documents\GitHub\data_science_excel_project_python_part\.conda
